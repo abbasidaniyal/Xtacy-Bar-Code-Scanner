@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "625260114530",
+    "firebase_url": "https://xtacy-org.firebaseio.com",
+    "project_id": "xtacy-org",
+    "storage_bucket": "xtacy-org.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625260114530:android:0dc52e5596772889",
+        "android_client_info": {
+          "package_name": "com.xtacy.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625260114530-mffg7gffco12jimrd349ouj4hlutqjuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xtacy.registration",
+            "certificate_hash": "6bfb40008a4dcfea81261c521b6cd62cf3061a0c"
+          }
+        },
+        {
+          "client_id": "625260114530-sroamapbj8mqf9jrhvoc1ucp1qs7tk29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZVCKdSrFcwRQielBAAKCtNnDzrqRnKew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625260114530-sroamapbj8mqf9jrhvoc1ucp1qs7tk29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

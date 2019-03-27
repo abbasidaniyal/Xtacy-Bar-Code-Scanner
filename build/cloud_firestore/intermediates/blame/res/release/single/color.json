@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\d04e9360c27ba7a4973e9ec1ca422357\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\d04e9360c27ba7a4973e9ec1ca422357\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\d04e9360c27ba7a4973e9ec1ca422357\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]

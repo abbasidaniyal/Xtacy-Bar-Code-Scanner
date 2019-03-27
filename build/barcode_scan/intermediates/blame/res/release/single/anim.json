@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f73dd3561bd89095d03c4b1eadfba89c\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f73dd3561bd89095d03c4b1eadfba89c\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f73dd3561bd89095d03c4b1eadfba89c\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_enter.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f73dd3561bd89095d03c4b1eadfba89c\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f73dd3561bd89095d03c4b1eadfba89c\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f73dd3561bd89095d03c4b1eadfba89c\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f73dd3561bd89095d03c4b1eadfba89c\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\3eefbe57b93ab1b346ba438797208765\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f73dd3561bd89095d03c4b1eadfba89c\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f73dd3561bd89095d03c4b1eadfba89c\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_exit.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f73dd3561bd89095d03c4b1eadfba89c\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\3eefbe57b93ab1b346ba438797208765\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\3eefbe57b93ab1b346ba438797208765\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f73dd3561bd89095d03c4b1eadfba89c\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f73dd3561bd89095d03c4b1eadfba89c\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\barcode_scan\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\3eefbe57b93ab1b346ba438797208765\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    }
+]

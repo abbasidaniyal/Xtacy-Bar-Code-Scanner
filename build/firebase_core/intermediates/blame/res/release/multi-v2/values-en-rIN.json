@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\c65cdaf5a8b2b060c5fd896803ba4702\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-en-rIN\\values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\abbas\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\c65cdaf5a8b2b060c5fd896803ba4702\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

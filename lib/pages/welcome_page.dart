@@ -10,10 +10,8 @@ class WelcomePage extends StatelessWidget {
     return SplashScreen(
       seconds: 2,
 
-      image: Image.asset("assets/logo.png"),
-
       
-      title: Text("xtacy",textScaleFactor: 2,),
+      title: Text("xtacy",textScaleFactor: 3,),
       backgroundColor: Colors.white,
       photoSize: 150,
       navigateAfterSeconds: HomePage(),

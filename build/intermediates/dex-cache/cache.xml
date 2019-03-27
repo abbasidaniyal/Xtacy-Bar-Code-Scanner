@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\abbas\Desktop\xtacyBarCodeScanner\build\app\intermediates\transforms\desugar\release\1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="27032141b6babc0d971c3d0c12e83d9dbc33a28a">
+        <dex dex="C:\Users\abbas\Desktop\xtacyBarCodeScanner\build\app\intermediates\transforms\preDex\release\2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abbas\Desktop\xtacyBarCodeScanner\build\app\intermediates\transforms\desugar\release\2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b3e34172b2674cee6268d94a035a47136203ba2">
+        <dex dex="C:\Users\abbas\Desktop\xtacyBarCodeScanner\build\app\intermediates\transforms\preDex\release\3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abbas\Desktop\xtacyBarCodeScanner\build\app\intermediates\transforms\desugar\release\0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53cdcb8123d9f42bf177a35b1a1fb0846c61d3d2">
+        <dex dex="C:\Users\abbas\Desktop\xtacyBarCodeScanner\build\app\intermediates\transforms\preDex\release\1\classes.dex" />
+    </item>
+
+</items>

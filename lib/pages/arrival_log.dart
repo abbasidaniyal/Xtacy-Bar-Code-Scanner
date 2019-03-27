@@ -8,7 +8,7 @@ class ArrivalLog extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     MainModel model = ScopedModel.of(context);
-    model.getHistory();
+    
     return Scaffold(
       drawer: MyDrawer(),
       appBar: AppBar(

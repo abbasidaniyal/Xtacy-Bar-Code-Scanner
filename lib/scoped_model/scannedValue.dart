@@ -1,6 +1,8 @@
 import 'package:scoped_model/scoped_model.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import '../model/scannedCode.dart';
+import 'package:crypto/crypto.dart';
+import 'dart:convert';
 
 class MainModel extends Model {
   Map<String, dynamic> data;
@@ -9,8 +11,16 @@ class MainModel extends Model {
   List<Map<String, dynamic>> history = [];
 
   bool verify(String registrationNumber, String hashedRegistrationNumber) {
-    //chech for MD5 matching
-    return true;
+    
+    var data = utf8.encode(registrationNumber);
+    var hash = md5.convert(data);
+    if (hash.toString().contains(hashedRegistrationNumber)) {
+      print("STRING HASH MATCHED");
+      return true;
+    } else {
+      print("String hash not matched");
+      return true;
+    }
   }
 
   Future<bool> getDataStatus(String registrationNumber) async {

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/daniyal/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.9.7/android/src/main/assets"/><source path="/home/daniyal/Desktop/xtacyBarCodeScanner/build/cloud_firestore/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/daniyal/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.9.7/android/src/debug/assets"/></dataSet></merger>

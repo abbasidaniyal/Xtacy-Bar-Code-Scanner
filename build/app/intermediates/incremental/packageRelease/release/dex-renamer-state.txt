@@ -1,4 +1,4 @@
-#Thu Mar 28 03:54:15 IST 2019
+#Fri Mar 29 12:05:49 IST 2019
 base.61=C\:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\app\\intermediates\\transforms\\preDex\\release\\4
 base.60=C\:\\Users\\abbas\\Desktop\\xtacyBarCodeScanner\\build\\app\\intermediates\\transforms\\preDex\\release\\0
 path.61=classes.dex

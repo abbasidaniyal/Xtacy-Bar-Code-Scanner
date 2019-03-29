@@ -14,7 +14,10 @@ class MainModel extends Model {
     
     var data = utf8.encode(registrationNumber);
     var hash = md5.convert(data);
-    if (hash.toString().contains(hashedRegistrationNumber)) {
+
+    print(hash.toString().toUpperCase());
+    print(hashedRegistrationNumber);
+    if (hash.toString().toUpperCase().contains(hashedRegistrationNumber)) {
       print("STRING HASH MATCHED");
       return true;
     } else {
@@ -65,7 +68,8 @@ class MainModel extends Model {
   }
 
   Future<Null> getHistory() async {
-    await Firestore.instance
+    if (history.isEmpty) {
+      await Firestore.instance
         .collection("arrivals")
         .getDocuments()
         .then((QuerySnapshot snapshot) {
@@ -75,5 +79,7 @@ class MainModel extends Model {
 
       print(history);
     });
+      
+    }
   }
 }
